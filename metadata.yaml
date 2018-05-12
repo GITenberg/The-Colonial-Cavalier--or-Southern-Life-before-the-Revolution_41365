@@ -1,0 +1,35 @@
+_repo: The-Colonial-Cavalier--or-Southern-Life-before-the-Revolution_41365
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Edwards, H. C. (Harry C.)
+    alias: Edwards, Harry C.
+    birthdate: 1868
+    deathdate: 1922
+    gutenberg_agent_id: '34137'
+    url: http://www.gutenberg.org/2009/agents/34137
+covers:
+- cover_type: archival
+  image_path: 41365-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Goodwin, Maud Wilder
+    birthdate: 1856
+    deathdate: 1935
+    gutenberg_agent_id: '24865'
+    url: http://www.gutenberg.org/2009/agents/24865
+description: ''
+gutenberg_issued: '2012-11-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41365'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Southern States -- Social life and customs -- To 1775'
+- !lcsh 'Upper class -- Southern States'
+- !lcc 'F206'
+title: The Colonial Cavalier; or, Southern Life before the Revolution
+url: http://www.gutenberg.org/ebooks/41365
